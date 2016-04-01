@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+    <string name="action_settings">Settings</string>
+    <string name="clearButton">Clear</string>
+    <string name="textLabel">Please enter your plain text message to be ciphered!</string>
+    <string name="textInput" />
+</resources>
